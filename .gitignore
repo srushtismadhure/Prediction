@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# OS
+.DS_Store
+
+# Plots / outputs (optional)
+*.png
+
+# Jupyter (if any)
+.ipynb_checkpoints/
